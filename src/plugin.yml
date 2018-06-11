@@ -1,0 +1,4 @@
+name: IntelligentEnemies
+version: 1.0
+author: Paul Reitz
+main: com.paulreitz.intelligentenemies.Main
